@@ -1,0 +1,29 @@
+Inputs:
+Cor da copa
+Cor do tronco
+Altura da arvore
+
+
+Intruções:
+Selecionar a ferramenta retangulo
+Selecionar o modo de preenchimento
+Cor do outline = cor do tronco
+Cor do fill =  cor do tronco
+Mover o cursor para ponto inicial
+Clicar
+Mover o cursor x=1/6 da altura da arvore e y=1/3 da altura da arvore
+Quantidade de pontos =Altura da arvore*2/3 ao quadrado
+Definir o ponto inicial da função x=1/12 da altura da arvore y=2/3 da altura da arvore  
+Utilizando a função do Rácio de ouro obtemos a coordeanadas dos pontos para a copa
+Conversão das coordenadas polares para racios relativos
+Selecionar a ferramenta circulo
+Selecionar o modo de preenchimento
+Cor do outline = cor do copa
+Cor do fill =  cor do copa
+Para cada ponto da função: 
+Criar um circulo com x=1/24 e y=1/24 utilizando como ponto inicial os pontos gerados da função
+
+	
+
+
+
